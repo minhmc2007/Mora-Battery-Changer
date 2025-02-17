@@ -2,15 +2,20 @@
 Mora Battery Changer for every android phone !!!!
 
 # Download: 
-https://github.com/minhmc2007/Mora-Battery-Changer/releases/tag/V1-beta
+## Please watch the previews before download
+[beta 1](https://github.com/minhmc2007/Mora-Battery-Changer/releases/tag/V1-beta)
+
+[beta 2](https://github.com/minhmc2007/Mora-Battery-Changer/releases/tag/V2.0-beta)
 
 I saw N3kowarrior make a port of Mora AI for every android phone but the battery...um sorry bad english :) i will call it overlay when the phone changer but N3kowarrior can't do, that all :)
 
 This app made by BlackShark company, i just reverse engineer it. Sill under development.
 
 # Preview:
+## Beta1
 ![Preview](preview.jpg)
 
+## Beta2
 ![Preview](preview2.jpg)
 
 # Build
